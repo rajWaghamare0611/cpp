@@ -20,7 +20,7 @@ int main (){
 
    cout<<"The expression is "<<a + b<<endl;;
     cout<<"The expression is "<<a + int(b)<<endl;
-   cout<<"The expression is "<<a + (int)b<<endl;;
+   cout<<"The expression is "<<a + (float)b<<endl;;
   
 
 
